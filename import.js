@@ -1,3 +1,3 @@
-//const ab = require("./require");
+const ab = require("./require");
 
 console.log(ab);
